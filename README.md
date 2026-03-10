@@ -14,6 +14,7 @@ Java
 | [0002-add-two-numbers](https://github.com/thulasiram-2906/Leet/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/thulasiram-2906/Leet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/thulasiram-2906/Leet/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/thulasiram-2906/Leet/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/thulasiram-2906/Leet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thulasiram-2906/Leet/tree/master/0067-add-binary) |
 ## Recursion
@@ -24,6 +25,7 @@ Java
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/thulasiram-2906/Leet/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/thulasiram-2906/Leet/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/thulasiram-2906/Leet/tree/master/0065-valid-number) |
@@ -53,4 +55,8 @@ Java
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/thulasiram-2906/Leet/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
