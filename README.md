@@ -14,6 +14,7 @@ Java
 | [0002-add-two-numbers](https://github.com/thulasiram-2906/Leet/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/thulasiram-2906/Leet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/thulasiram-2906/Leet/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/thulasiram-2906/Leet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thulasiram-2906/Leet/tree/master/0067-add-binary) |
 ## Recursion
 |  |
@@ -39,4 +40,8 @@ Java
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/thulasiram-2906/Leet/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/thulasiram-2906/Leet/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
