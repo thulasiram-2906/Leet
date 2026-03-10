@@ -7,6 +7,7 @@ Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thulasiram-2906/Leet/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/thulasiram-2906/Leet/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -16,6 +17,7 @@ Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thulasiram-2906/Leet/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/thulasiram-2906/Leet/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
