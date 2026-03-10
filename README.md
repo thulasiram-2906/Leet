@@ -24,6 +24,7 @@ Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/thulasiram-2906/Leet/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/thulasiram-2906/Leet/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/thulasiram-2906/Leet/tree/master/0067-add-binary) |
 ## Stack
