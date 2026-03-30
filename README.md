@@ -8,6 +8,7 @@ Java
 | ------- |
 | [0002-add-two-numbers](https://github.com/thulasiram-2906/Leet/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/thulasiram-2906/Leet/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/thulasiram-2906/Leet/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thulasiram-2906/Leet/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
@@ -66,4 +67,16 @@ Java
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thulasiram-2906/Leet/tree/master/0013-roman-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thulasiram-2906/Leet/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thulasiram-2906/Leet/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/thulasiram-2906/Leet/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
