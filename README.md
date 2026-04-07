@@ -50,6 +50,7 @@ Java
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thulasiram-2906/Leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thulasiram-2906/Leet/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/thulasiram-2906/Leet/tree/master/0066-plus-one) |
@@ -72,6 +73,7 @@ Java
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thulasiram-2906/Leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/thulasiram-2906/Leet/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
@@ -85,4 +87,8 @@ Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thulasiram-2906/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thulasiram-2906/Leet/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
