@@ -28,6 +28,7 @@ Java
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thulasiram-2906/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/thulasiram-2906/Leet/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/thulasiram-2906/Leet/tree/master/0058-length-of-last-word) |
@@ -66,6 +67,7 @@ Java
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thulasiram-2906/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/thulasiram-2906/Leet/tree/master/0013-roman-to-integer) |
 ## Divide and Conquer
 |  |
@@ -79,4 +81,8 @@ Java
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thulasiram-2906/Leet/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thulasiram-2906/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
