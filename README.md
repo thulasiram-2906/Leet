@@ -61,6 +61,7 @@ Java
 | [0014-longest-common-prefix](https://github.com/thulasiram-2906/Leet/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/thulasiram-2906/Leet/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thulasiram-2906/Leet/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/thulasiram-2906/Leet/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thulasiram-2906/Leet/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/thulasiram-2906/Leet/tree/master/0066-plus-one) |
@@ -71,6 +72,7 @@ Java
 | [0005-longest-palindromic-substring](https://github.com/thulasiram-2906/Leet/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/thulasiram-2906/Leet/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thulasiram-2906/Leet/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/thulasiram-2906/Leet/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thulasiram-2906/Leet/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0088-merge-sorted-array) |
@@ -79,6 +81,7 @@ Java
 | ------- |
 | [0015-3sum](https://github.com/thulasiram-2906/Leet/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thulasiram-2906/Leet/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/thulasiram-2906/Leet/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
