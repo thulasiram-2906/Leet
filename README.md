@@ -86,6 +86,7 @@ Java
 | [0041-first-missing-positive](https://github.com/thulasiram-2906/Leet/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/thulasiram-2906/Leet/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/thulasiram-2906/Leet/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/thulasiram-2906/Leet/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/thulasiram-2906/Leet/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/thulasiram-2906/Leet/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0088-merge-sorted-array) |
@@ -110,6 +111,7 @@ Java
 | [0015-3sum](https://github.com/thulasiram-2906/Leet/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thulasiram-2906/Leet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/thulasiram-2906/Leet/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/thulasiram-2906/Leet/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -164,6 +166,7 @@ Java
 | [0022-generate-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/thulasiram-2906/Leet/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/thulasiram-2906/Leet/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/thulasiram-2906/Leet/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/thulasiram-2906/Leet/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/thulasiram-2906/Leet/tree/master/0052-n-queens-ii) |
 ## Greedy
