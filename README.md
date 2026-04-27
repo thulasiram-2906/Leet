@@ -78,6 +78,7 @@ Java
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thulasiram-2906/Leet/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/thulasiram-2906/Leet/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/thulasiram-2906/Leet/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
@@ -131,6 +132,7 @@ Java
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thulasiram-2906/Leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
