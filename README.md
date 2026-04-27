@@ -81,6 +81,7 @@ Java
 | [0031-next-permutation](https://github.com/thulasiram-2906/Leet/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/thulasiram-2906/Leet/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/thulasiram-2906/Leet/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/thulasiram-2906/Leet/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/thulasiram-2906/Leet/tree/master/0042-trapping-rain-water) |
@@ -141,6 +142,7 @@ Java
 | [0004-median-of-two-sorted-arrays](https://github.com/thulasiram-2906/Leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/thulasiram-2906/Leet/tree/master/0035-search-insert-position) |
 ## Dynamic Programming
 |  |
 | ------- |
