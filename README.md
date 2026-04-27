@@ -42,6 +42,7 @@ Java
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thulasiram-2906/Leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thulasiram-2906/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/thulasiram-2906/Leet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/thulasiram-2906/Leet/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/thulasiram-2906/Leet/tree/master/0065-valid-number) |
@@ -83,6 +84,7 @@ Java
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thulasiram-2906/Leet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thulasiram-2906/Leet/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thulasiram-2906/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -140,4 +142,8 @@ Java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thulasiram-2906/Leet/tree/master/0011-container-with-most-water) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thulasiram-2906/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
