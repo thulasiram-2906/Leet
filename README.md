@@ -80,6 +80,7 @@ Java
 | [0031-next-permutation](https://github.com/thulasiram-2906/Leet/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/thulasiram-2906/Leet/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/thulasiram-2906/Leet/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
@@ -111,6 +112,7 @@ Java
 | [0013-roman-to-integer](https://github.com/thulasiram-2906/Leet/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thulasiram-2906/Leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/thulasiram-2906/Leet/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/thulasiram-2906/Leet/tree/master/0041-first-missing-positive) |
 ## Divide and Conquer
 |  |
 | ------- |
