@@ -85,6 +85,7 @@ Java
 | [0039-combination-sum](https://github.com/thulasiram-2906/Leet/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/thulasiram-2906/Leet/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/thulasiram-2906/Leet/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/thulasiram-2906/Leet/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/thulasiram-2906/Leet/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
@@ -161,6 +162,7 @@ Java
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thulasiram-2906/Leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/thulasiram-2906/Leet/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/thulasiram-2906/Leet/tree/master/0051-n-queens) |
 ## Greedy
 |  |
 | ------- |
