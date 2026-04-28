@@ -76,6 +76,7 @@ Java
 | [0227-basic-calculator-ii](https://github.com/thulasiram-2906/Leet/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/thulasiram-2906/Leet/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/thulasiram-2906/Leet/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/thulasiram-2906/Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0639-decode-ways-ii](https://github.com/thulasiram-2906/Leet/tree/master/0639-decode-ways-ii) |
 | [0770-basic-calculator-iv](https://github.com/thulasiram-2906/Leet/tree/master/0770-basic-calculator-iv) |
 ## Stack
@@ -281,6 +282,7 @@ Java
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/thulasiram-2906/Leet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/thulasiram-2906/Leet/tree/master/0096-unique-binary-search-trees) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/thulasiram-2906/Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -291,6 +293,7 @@ Java
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/thulasiram-2906/Leet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/thulasiram-2906/Leet/tree/master/0096-unique-binary-search-trees) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/thulasiram-2906/Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -324,8 +327,17 @@ Java
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/thulasiram-2906/Leet/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/thulasiram-2906/Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/thulasiram-2906/Leet/tree/master/0295-find-median-from-data-stream) |
+## Depth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/thulasiram-2906/Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/thulasiram-2906/Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
