@@ -148,6 +148,7 @@ Java
 | [0031-next-permutation](https://github.com/thulasiram-2906/Leet/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/thulasiram-2906/Leet/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0088-merge-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/thulasiram-2906/Leet/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Java
 | [0088-merge-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0088-merge-sorted-array) |
 | [0218-the-skyline-problem](https://github.com/thulasiram-2906/Leet/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/thulasiram-2906/Leet/tree/master/0220-contains-duplicate-iii) |
+| [0295-find-median-from-data-stream](https://github.com/thulasiram-2906/Leet/tree/master/0295-find-median-from-data-stream) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +184,7 @@ Java
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/thulasiram-2906/Leet/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/thulasiram-2906/Leet/tree/master/0218-the-skyline-problem) |
+| [0295-find-median-from-data-stream](https://github.com/thulasiram-2906/Leet/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -317,4 +320,12 @@ Java
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/thulasiram-2906/Leet/tree/master/0220-contains-duplicate-iii) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/thulasiram-2906/Leet/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/thulasiram-2906/Leet/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
