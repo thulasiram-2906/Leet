@@ -29,6 +29,7 @@ Java
 | [0149-max-points-on-a-line](https://github.com/thulasiram-2906/Leet/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/thulasiram-2906/Leet/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/thulasiram-2906/Leet/tree/master/0227-basic-calculator-ii) |
+| [0233-number-of-digit-one](https://github.com/thulasiram-2906/Leet/tree/master/0233-number-of-digit-one) |
 | [0770-basic-calculator-iv](https://github.com/thulasiram-2906/Leet/tree/master/0770-basic-calculator-iv) |
 ## Recursion
 |  |
@@ -39,6 +40,7 @@ Java
 | [0024-swap-nodes-in-pairs](https://github.com/thulasiram-2906/Leet/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/thulasiram-2906/Leet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/thulasiram-2906/Leet/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/thulasiram-2906/Leet/tree/master/0233-number-of-digit-one) |
 | [0770-basic-calculator-iv](https://github.com/thulasiram-2906/Leet/tree/master/0770-basic-calculator-iv) |
 ## String
 |  |
@@ -212,6 +214,7 @@ Java
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/thulasiram-2906/Leet/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/thulasiram-2906/Leet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0233-number-of-digit-one](https://github.com/thulasiram-2906/Leet/tree/master/0233-number-of-digit-one) |
 | [0639-decode-ways-ii](https://github.com/thulasiram-2906/Leet/tree/master/0639-decode-ways-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/thulasiram-2906/Leet/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Trie
