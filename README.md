@@ -173,6 +173,7 @@ Java
 | [0032-longest-valid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thulasiram-2906/Leet/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/thulasiram-2906/Leet/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/thulasiram-2906/Leet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/thulasiram-2906/Leet/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/thulasiram-2906/Leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
@@ -195,6 +196,7 @@ Java
 | [0047-permutations-ii](https://github.com/thulasiram-2906/Leet/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/thulasiram-2906/Leet/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/thulasiram-2906/Leet/tree/master/0052-n-queens-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/thulasiram-2906/Leet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 ## Greedy
 |  |
@@ -225,13 +227,16 @@ Java
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/thulasiram-2906/Leet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/thulasiram-2906/Leet/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/thulasiram-2906/Leet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/thulasiram-2906/Leet/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/thulasiram-2906/Leet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/thulasiram-2906/Leet/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
