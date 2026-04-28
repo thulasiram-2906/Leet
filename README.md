@@ -98,6 +98,7 @@ Java
 | [0139-word-break](https://github.com/thulasiram-2906/Leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/thulasiram-2906/Leet/tree/master/0149-max-points-on-a-line) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/thulasiram-2906/Leet/tree/master/0174-dungeon-game) |
 ## Two Pointers
 |  |
@@ -159,6 +160,7 @@ Java
 | [0033-search-in-rotated-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thulasiram-2906/Leet/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
