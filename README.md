@@ -134,6 +134,7 @@ Java
 | [0212-word-search-ii](https://github.com/thulasiram-2906/Leet/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/thulasiram-2906/Leet/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/thulasiram-2906/Leet/tree/master/0220-contains-duplicate-iii) |
+| [0312-burst-balloons](https://github.com/thulasiram-2906/Leet/tree/master/0312-burst-balloons) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/thulasiram-2906/Leet/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Two Pointers
 |  |
@@ -225,6 +226,7 @@ Java
 | [0174-dungeon-game](https://github.com/thulasiram-2906/Leet/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/thulasiram-2906/Leet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/thulasiram-2906/Leet/tree/master/0233-number-of-digit-one) |
+| [0312-burst-balloons](https://github.com/thulasiram-2906/Leet/tree/master/0312-burst-balloons) |
 | [0639-decode-ways-ii](https://github.com/thulasiram-2906/Leet/tree/master/0639-decode-ways-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/thulasiram-2906/Leet/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Trie
