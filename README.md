@@ -60,6 +60,7 @@ Java
 | [0097-interleaving-string](https://github.com/thulasiram-2906/Leet/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/thulasiram-2906/Leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/thulasiram-2906/Leet/tree/master/0212-word-search-ii) |
 | [0639-decode-ways-ii](https://github.com/thulasiram-2906/Leet/tree/master/0639-decode-ways-ii) |
 ## Stack
 |  |
@@ -109,6 +110,7 @@ Java
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/thulasiram-2906/Leet/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/thulasiram-2906/Leet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0212-word-search-ii](https://github.com/thulasiram-2906/Leet/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/thulasiram-2906/Leet/tree/master/0218-the-skyline-problem) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/thulasiram-2906/Leet/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Two Pointers
@@ -202,6 +204,7 @@ Java
 | [0014-longest-common-prefix](https://github.com/thulasiram-2906/Leet/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/thulasiram-2906/Leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/thulasiram-2906/Leet/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -215,6 +218,7 @@ Java
 | [0052-n-queens-ii](https://github.com/thulasiram-2906/Leet/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/thulasiram-2906/Leet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/thulasiram-2906/Leet/tree/master/0212-word-search-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -233,6 +237,7 @@ Java
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/thulasiram-2906/Leet/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/thulasiram-2906/Leet/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
