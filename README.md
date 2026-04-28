@@ -91,6 +91,7 @@ Java
 | [0051-n-queens](https://github.com/thulasiram-2906/Leet/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/thulasiram-2906/Leet/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/thulasiram-2906/Leet/tree/master/0135-candy) |
 | [0174-dungeon-game](https://github.com/thulasiram-2906/Leet/tree/master/0174-dungeon-game) |
 ## Two Pointers
 |  |
@@ -177,6 +178,7 @@ Java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thulasiram-2906/Leet/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/thulasiram-2906/Leet/tree/master/0135-candy) |
 ## String Matching
 |  |
 | ------- |
