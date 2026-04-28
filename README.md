@@ -29,6 +29,7 @@ Java
 | [0149-max-points-on-a-line](https://github.com/thulasiram-2906/Leet/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/thulasiram-2906/Leet/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/thulasiram-2906/Leet/tree/master/0227-basic-calculator-ii) |
+| [0770-basic-calculator-iv](https://github.com/thulasiram-2906/Leet/tree/master/0770-basic-calculator-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Java
 | [0024-swap-nodes-in-pairs](https://github.com/thulasiram-2906/Leet/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/thulasiram-2906/Leet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/thulasiram-2906/Leet/tree/master/0224-basic-calculator) |
+| [0770-basic-calculator-iv](https://github.com/thulasiram-2906/Leet/tree/master/0770-basic-calculator-iv) |
 ## String
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Java
 | [0224-basic-calculator](https://github.com/thulasiram-2906/Leet/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/thulasiram-2906/Leet/tree/master/0227-basic-calculator-ii) |
 | [0639-decode-ways-ii](https://github.com/thulasiram-2906/Leet/tree/master/0639-decode-ways-ii) |
+| [0770-basic-calculator-iv](https://github.com/thulasiram-2906/Leet/tree/master/0770-basic-calculator-iv) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +79,7 @@ Java
 | [0042-trapping-rain-water](https://github.com/thulasiram-2906/Leet/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/thulasiram-2906/Leet/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/thulasiram-2906/Leet/tree/master/0227-basic-calculator-ii) |
+| [0770-basic-calculator-iv](https://github.com/thulasiram-2906/Leet/tree/master/0770-basic-calculator-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,6 +163,7 @@ Java
 | [0139-word-break](https://github.com/thulasiram-2906/Leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/thulasiram-2906/Leet/tree/master/0149-max-points-on-a-line) |
+| [0770-basic-calculator-iv](https://github.com/thulasiram-2906/Leet/tree/master/0770-basic-calculator-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
