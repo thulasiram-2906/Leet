@@ -52,6 +52,7 @@ Java
 | [0058-length-of-last-word](https://github.com/thulasiram-2906/Leet/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/thulasiram-2906/Leet/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/thulasiram-2906/Leet/tree/master/0067-add-binary) |
+| [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Java
 | [0066-plus-one](https://github.com/thulasiram-2906/Leet/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/thulasiram-2906/Leet/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/thulasiram-2906/Leet/tree/master/0174-dungeon-game) |
 ## Two Pointers
 |  |
@@ -125,6 +127,7 @@ Java
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thulasiram-2906/Leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/thulasiram-2906/Leet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/thulasiram-2906/Leet/tree/master/0041-first-missing-positive) |
+| [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,11 +161,13 @@ Java
 | [0022-generate-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thulasiram-2906/Leet/tree/master/0042-trapping-rain-water) |
+| [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/thulasiram-2906/Leet/tree/master/0174-dungeon-game) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thulasiram-2906/Leet/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -174,6 +179,7 @@ Java
 | [0047-permutations-ii](https://github.com/thulasiram-2906/Leet/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/thulasiram-2906/Leet/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/thulasiram-2906/Leet/tree/master/0052-n-queens-ii) |
+| [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -191,4 +197,8 @@ Java
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/thulasiram-2906/Leet/tree/master/0174-dungeon-game) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
