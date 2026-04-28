@@ -113,6 +113,7 @@ Java
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/thulasiram-2906/Leet/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/thulasiram-2906/Leet/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/thulasiram-2906/Leet/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/thulasiram-2906/Leet/tree/master/0220-contains-duplicate-iii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/thulasiram-2906/Leet/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Two Pointers
 |  |
@@ -138,6 +139,7 @@ Java
 | [0047-permutations-ii](https://github.com/thulasiram-2906/Leet/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/thulasiram-2906/Leet/tree/master/0088-merge-sorted-array) |
 | [0218-the-skyline-problem](https://github.com/thulasiram-2906/Leet/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/thulasiram-2906/Leet/tree/master/0220-contains-duplicate-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Java
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thulasiram-2906/Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/thulasiram-2906/Leet/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0220-contains-duplicate-iii](https://github.com/thulasiram-2906/Leet/tree/master/0220-contains-duplicate-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -280,6 +283,7 @@ Java
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/thulasiram-2906/Leet/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/thulasiram-2906/Leet/tree/master/0220-contains-duplicate-iii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -288,4 +292,8 @@ Java
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/thulasiram-2906/Leet/tree/master/0214-shortest-palindrome) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/thulasiram-2906/Leet/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
