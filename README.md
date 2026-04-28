@@ -24,6 +24,7 @@ Java
 | [0029-divide-two-integers](https://github.com/thulasiram-2906/Leet/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/thulasiram-2906/Leet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thulasiram-2906/Leet/tree/master/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/thulasiram-2906/Leet/tree/master/0149-max-points-on-a-line) |
 ## Recursion
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Java
 | [0135-candy](https://github.com/thulasiram-2906/Leet/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/thulasiram-2906/Leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/thulasiram-2906/Leet/tree/master/0149-max-points-on-a-line) |
 | [0174-dungeon-game](https://github.com/thulasiram-2906/Leet/tree/master/0174-dungeon-game) |
 ## Two Pointers
 |  |
@@ -131,6 +133,7 @@ Java
 | [0041-first-missing-positive](https://github.com/thulasiram-2906/Leet/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/thulasiram-2906/Leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/thulasiram-2906/Leet/tree/master/0149-max-points-on-a-line) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,4 +210,8 @@ Java
 | ------- |
 | [0139-word-break](https://github.com/thulasiram-2906/Leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/thulasiram-2906/Leet/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
