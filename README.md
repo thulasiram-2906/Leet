@@ -24,6 +24,7 @@ Java
 | [0029-divide-two-integers](https://github.com/thulasiram-2906/Leet/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/thulasiram-2906/Leet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thulasiram-2906/Leet/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/thulasiram-2906/Leet/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/thulasiram-2906/Leet/tree/master/0149-max-points-on-a-line) |
 ## Recursion
 |  |
@@ -172,6 +173,7 @@ Java
 | [0032-longest-valid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thulasiram-2906/Leet/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/thulasiram-2906/Leet/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/thulasiram-2906/Leet/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/thulasiram-2906/Leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/thulasiram-2906/Leet/tree/master/0174-dungeon-game) |
@@ -220,4 +222,16 @@ Java
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/thulasiram-2906/Leet/tree/master/0149-max-points-on-a-line) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/thulasiram-2906/Leet/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/thulasiram-2906/Leet/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/thulasiram-2906/Leet/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
