@@ -27,6 +27,7 @@ Java
 | [0067-add-binary](https://github.com/thulasiram-2906/Leet/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/thulasiram-2906/Leet/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/thulasiram-2906/Leet/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/thulasiram-2906/Leet/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Java
 | [0021-merge-two-sorted-lists](https://github.com/thulasiram-2906/Leet/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/thulasiram-2906/Leet/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/thulasiram-2906/Leet/tree/master/0025-reverse-nodes-in-k-group) |
+| [0224-basic-calculator](https://github.com/thulasiram-2906/Leet/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Java
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/thulasiram-2906/Leet/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/thulasiram-2906/Leet/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/thulasiram-2906/Leet/tree/master/0224-basic-calculator) |
 | [0639-decode-ways-ii](https://github.com/thulasiram-2906/Leet/tree/master/0639-decode-ways-ii) |
 ## Stack
 |  |
@@ -69,6 +72,7 @@ Java
 | [0020-valid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thulasiram-2906/Leet/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/thulasiram-2906/Leet/tree/master/0224-basic-calculator) |
 ## Bit Manipulation
 |  |
 | ------- |
