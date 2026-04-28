@@ -61,6 +61,7 @@ Java
 | [0139-word-break](https://github.com/thulasiram-2906/Leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/thulasiram-2906/Leet/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/thulasiram-2906/Leet/tree/master/0214-shortest-palindrome) |
 | [0639-decode-ways-ii](https://github.com/thulasiram-2906/Leet/tree/master/0639-decode-ways-ii) |
 ## Stack
 |  |
@@ -229,6 +230,7 @@ Java
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thulasiram-2906/Leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/thulasiram-2906/Leet/tree/master/0214-shortest-palindrome) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -278,4 +280,12 @@ Java
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/thulasiram-2906/Leet/tree/master/0218-the-skyline-problem) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/thulasiram-2906/Leet/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/thulasiram-2906/Leet/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
