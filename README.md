@@ -136,6 +136,7 @@ Java
 | [0220-contains-duplicate-iii](https://github.com/thulasiram-2906/Leet/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/thulasiram-2906/Leet/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/thulasiram-2906/Leet/tree/master/0312-burst-balloons) |
+| [0773-sliding-puzzle](https://github.com/thulasiram-2906/Leet/tree/master/0773-sliding-puzzle) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/thulasiram-2906/Leet/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Two Pointers
 |  |
@@ -231,6 +232,7 @@ Java
 | [0233-number-of-digit-one](https://github.com/thulasiram-2906/Leet/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/thulasiram-2906/Leet/tree/master/0312-burst-balloons) |
 | [0639-decode-ways-ii](https://github.com/thulasiram-2906/Leet/tree/master/0639-decode-ways-ii) |
+| [0773-sliding-puzzle](https://github.com/thulasiram-2906/Leet/tree/master/0773-sliding-puzzle) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/thulasiram-2906/Leet/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Trie
 |  |
@@ -255,6 +257,7 @@ Java
 | [0212-word-search-ii](https://github.com/thulasiram-2906/Leet/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/thulasiram-2906/Leet/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0301-remove-invalid-parentheses) |
+| [0773-sliding-puzzle](https://github.com/thulasiram-2906/Leet/tree/master/0773-sliding-puzzle) |
 ## Greedy
 |  |
 | ------- |
@@ -275,11 +278,13 @@ Java
 | ------- |
 | [0174-dungeon-game](https://github.com/thulasiram-2906/Leet/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/thulasiram-2906/Leet/tree/master/0212-word-search-ii) |
+| [0773-sliding-puzzle](https://github.com/thulasiram-2906/Leet/tree/master/0773-sliding-puzzle) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/thulasiram-2906/Leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
+| [0773-sliding-puzzle](https://github.com/thulasiram-2906/Leet/tree/master/0773-sliding-puzzle) |
 ## Geometry
 |  |
 | ------- |
@@ -348,6 +353,7 @@ Java
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/thulasiram-2906/Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0301-remove-invalid-parentheses) |
+| [0773-sliding-puzzle](https://github.com/thulasiram-2906/Leet/tree/master/0773-sliding-puzzle) |
 ## Queue
 |  |
 | ------- |
