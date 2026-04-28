@@ -77,6 +77,7 @@ Java
 | [0273-integer-to-english-words](https://github.com/thulasiram-2906/Leet/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/thulasiram-2906/Leet/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/thulasiram-2906/Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0301-remove-invalid-parentheses) |
 | [0639-decode-ways-ii](https://github.com/thulasiram-2906/Leet/tree/master/0639-decode-ways-ii) |
 | [0770-basic-calculator-iv](https://github.com/thulasiram-2906/Leet/tree/master/0770-basic-calculator-iv) |
 ## Stack
@@ -248,6 +249,7 @@ Java
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/thulasiram-2906/Leet/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/thulasiram-2906/Leet/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -340,4 +342,5 @@ Java
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/thulasiram-2906/Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
