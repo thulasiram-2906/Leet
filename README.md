@@ -53,6 +53,7 @@ Java
 | [0058-length-of-last-word](https://github.com/thulasiram-2906/Leet/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/thulasiram-2906/Leet/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/thulasiram-2906/Leet/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/thulasiram-2906/Leet/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/thulasiram-2906/Leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 ## Stack
@@ -169,6 +170,7 @@ Java
 | [0022-generate-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thulasiram-2906/Leet/tree/master/0042-trapping-rain-water) |
+| [0091-decode-ways](https://github.com/thulasiram-2906/Leet/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/thulasiram-2906/Leet/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/thulasiram-2906/Leet/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/thulasiram-2906/Leet/tree/master/0174-dungeon-game) |
