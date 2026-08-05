@@ -354,6 +354,7 @@ Java
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/thulasiram-2906/Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/thulasiram-2906/Leet/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -361,6 +362,7 @@ Java
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/thulasiram-2906/Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/thulasiram-2906/Leet/tree/master/0301-remove-invalid-parentheses) |
 | [0773-sliding-puzzle](https://github.com/thulasiram-2906/Leet/tree/master/0773-sliding-puzzle) |
+| [3310-remove-methods-from-project](https://github.com/thulasiram-2906/Leet/tree/master/3310-remove-methods-from-project) |
 ## Queue
 |  |
 | ------- |
@@ -369,4 +371,8 @@ Java
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/thulasiram-2906/Leet/tree/master/0239-sliding-window-maximum) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/thulasiram-2906/Leet/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
